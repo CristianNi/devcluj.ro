@@ -1,0 +1,8 @@
+{
+    "icons": [{
+        "src": "img/IE11-tiles/medium.png",
+        "sizes": "270x270",
+        "type": "image/png"
+    }],
+    "start_url": "/"
+}
